@@ -1,0 +1,16 @@
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\bin\Debug\net6.0-windows\Physics Engine.exe
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\bin\Debug\net6.0-windows\Physics Engine.deps.json
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\bin\Debug\net6.0-windows\Physics Engine.runtimeconfig.json
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\bin\Debug\net6.0-windows\Physics Engine.dll
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\bin\Debug\net6.0-windows\Physics Engine.pdb
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\obj\Debug\net6.0-windows\Physics_Engine.Form1.resources
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\obj\Debug\net6.0-windows\Physics Engine.csproj.GenerateResource.cache
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\obj\Debug\net6.0-windows\Physics Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\obj\Debug\net6.0-windows\Physics Engine.AssemblyInfoInputs.cache
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\obj\Debug\net6.0-windows\Physics Engine.AssemblyInfo.cs
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\obj\Debug\net6.0-windows\Physics Engine.csproj.CoreCompileInputs.cache
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\obj\Debug\net6.0-windows\Physics Engine.dll
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\obj\Debug\net6.0-windows\refint\Physics Engine.dll
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\obj\Debug\net6.0-windows\Physics Engine.pdb
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\obj\Debug\net6.0-windows\Physics Engine.genruntimeconfig.cache
+C:\Users\stoim\Desktop\Physics Engine\Physics Engine\obj\Debug\net6.0-windows\ref\Physics Engine.dll
