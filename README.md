@@ -9,7 +9,7 @@ Press on <> Code at the top
 
 
 Then press on Download Zip
-<img width="502" height="442" alt="image" src="https://github.com/user-attachments/assets/b3af3d76-3269-4ef2-bede-ac71b06cb76f" />
+<img width="502" height="200" alt="image" src="https://github.com/user-attachments/assets/b3af3d76-3269-4ef2-bede-ac71b06cb76f" />
 After downloading a Zip file of all the code, you will need to extract all to a preferred area
 Once it has been extracted locate the file and open it and this will appear
 <img width="295" height="80" alt="image" src="https://github.com/user-attachments/assets/48719020-694f-4907-a96e-9286799ff606" />
