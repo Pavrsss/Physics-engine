@@ -47,3 +47,12 @@ It is a simple slider design to change the values. So that the slider occurs, th
 
 To delete components all the user has to do is to is drag the component over the bin icon and it will delete the component and will detach all the components and wires connected to that specific component.
 
+# Sources Used To Create This Simulator
+
+CircuitLab - https://ultimateelectronicsbook.com/  
+Paul Falstad - https://www.falstad.com/circuit/  
+NGSpice- https://ngspice.sourceforge.io  
+SpiceSharp - https://github.com/SpiceSharp/SpiceSharp/blob/master/README.md  
+Andrei Vladimescus book on circuit simulators - https://kolegite.com/EE_library/books_and_lectures/Автоматизация%20на%20Проектирането%20в%20Електрониката/The%20SPICE%20Book%20by%20Andrei%20Vladimirescu%20%28z-lib.org%29.pdf  
+Naive Circuit Simulator - https://github.com/FarahaniMehrshad/NaiveCircuitSimulator  
+Microsoft Learn - http://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-windows-forms-picture-viewer-layout?view=visualstudio  
