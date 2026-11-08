@@ -15,7 +15,7 @@ Once it has been extracted locate the file and open it and this will appear\
 Then open WindowsFormApp1 and this will appear\
 <img width="285" height="643" alt="image" src="https://github.com/user-attachments/assets/bcfe2aa8-f128-4fb3-bf1b-0c06816e034b" />
 
-To run the program click WindowsFormApp1.exe to run the program\
+To run the program click WindowsFormApp1.exe to run the program.
 
 # Simple Guide To How The Circuit Smulator Works
 When program starts it will start in this form:\
@@ -44,5 +44,5 @@ The default for the battery is 10V and for the resistor is 100 Ohms.\
 It is a simple slider design to change the values. So that the slider occurs, the user has to press on the component they wish to change the values of:\
 <img width="242" height="172" alt="image" src="https://github.com/user-attachments/assets/0d80ec08-5824-4cec-ad45-3014cdbb7919" />
 
-To delete components all the user has to do is to is drag the component over the bin icon and it will delete the component and will detach all the components and wires connected to that specific component\
+To delete components all the user has to do is to is drag the component over the bin icon and it will delete the component and will detach all the components and wires connected to that specific component.
 
