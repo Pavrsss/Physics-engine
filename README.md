@@ -3,19 +3,16 @@ This is a project created on Microsoft Visual Studio 2022, in a windows app form
 Currently this project has 1 design and is close to finishing its second design.
 
 # Tutorial on how to download and run the program
-Press on <> Code at the top
-
+Press on <> Code at the top\
 <img width="633" height="80" alt="image" src="https://github.com/user-attachments/assets/34453da8-78cd-4a22-877e-759a64b4a9e7" />
-
-
-Then press on Download Zip
+Then press on Download Zip\
 <img width="502" height="433" alt="image" src="https://github.com/user-attachments/assets/b3af3d76-3269-4ef2-bede-ac71b06cb76f" />
-After downloading a Zip file of all the code, you will need to extract all to a preferred area
-Once it has been extracted locate the file and open it and this will appear
+After downloading a Zip file of all the code, you will need to extract all to a preferred area\
+Once it has been extracted locate the file and open it and this will appear\
 <img width="295" height="80" alt="image" src="https://github.com/user-attachments/assets/48719020-694f-4907-a96e-9286799ff606" />
-Then open WindowsFormApp1 and this will appear
+Then open WindowsFormApp1 and this will appear\
 <img width="285" height="643" alt="image" src="https://github.com/user-attachments/assets/bcfe2aa8-f128-4fb3-bf1b-0c06816e034b" />
-To run the program click WindowsFormApp1.exe to run the program
+To run the program click WindowsFormApp1.exe to run the program\
 
 # Simple Guide To How The Circuit Smulator Works
 When program starts it will start in this form:
