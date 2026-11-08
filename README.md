@@ -4,7 +4,10 @@ Currently this project has 1 design and is close to finishing its second design.
 
 # Tutorial on how to download and run the program
 Press on <> Code at the top
+
 <img width="633" height="80" alt="image" src="https://github.com/user-attachments/assets/34453da8-78cd-4a22-877e-759a64b4a9e7" />
+
+
 Then press on Download Zip
 <img width="502" height="442" alt="image" src="https://github.com/user-attachments/assets/b3af3d76-3269-4ef2-bede-ac71b06cb76f" />
 After downloading a Zip file of all the code, you will need to extract all to a preferred area
