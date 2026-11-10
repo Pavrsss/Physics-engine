@@ -56,3 +56,5 @@ SpiceSharp - https://github.com/SpiceSharp/SpiceSharp/blob/master/README.md
 Andrei Vladimescus book on circuit simulators - https://kolegite.com/EE_library/books_and_lectures/Автоматизация%20на%20Проектирането%20в%20Електрониката/The%20SPICE%20Book%20by%20Andrei%20Vladimirescu%20%28z-lib.org%29.pdf  
 Naive Circuit Simulator - https://github.com/FarahaniMehrshad/NaiveCircuitSimulator  
 Microsoft Learn - http://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-windows-forms-picture-viewer-layout?view=visualstudio  
+FreeCodeCamp.org - https://www.youtube.com/watch?v=GhQdlIFylQ8  
+W3Schools - https://www.w3schools.com/cs/index.php  
